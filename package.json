@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "excel4node": "^1.8.2",
+    "glob": "^10.3.3",
+    "google-spreadsheet": "^4.0.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.4",
+    "node-fetch": "^3.3.1",
+    "table": "^6.8.1",
+    "web3": "^4.0.3"
+  }
+}
